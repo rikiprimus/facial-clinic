@@ -4,12 +4,10 @@
 A simple facial clinic website using react
 
 ## Preview
-![6](https://user-images.githubusercontent.com/34765525/230944124-3a6fd209-1bb8-484a-858a-672f6869de61.JPG)
+![5](https://user-images.githubusercontent.com/34765525/231217210-11a73ed7-1d5c-4591-a274-fa42bb005972.JPG)
 
 ## Features
 * Responsive Website
-* Multi-Page Layout
-* Swiper
 * Tailwind
 
 ## Setup
